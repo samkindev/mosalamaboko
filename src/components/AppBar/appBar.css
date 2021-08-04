@@ -1,0 +1,114 @@
+.appbar {
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    box-shadow:  0px 1px 0px 0px #9e9e9e40;
+}
+
+.inner-appbar {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.logo,
+.connexion {
+    flex: 1;
+}
+
+.logo {
+    display: flex;
+    align-items: center; 
+}
+
+.logo .logo-image {
+    width: 85px;
+    height: 60px;
+}
+
+.logo-string {
+    font-size: 15px!important;
+    font-weight: 700!important;
+    font-family: unset!important;
+}
+
+.menu,
+.connexion {
+    display: flex;
+    align-items: center;
+}
+
+.menu {
+    justify-content: flex-end;
+    flex: 1;
+    color: #444;
+}
+
+.menu-item {
+    position: relative;
+    display: block;
+    padding: 7px 0px;
+    height: fit-content;
+    font-weight: 600!important;
+    transition: all .2s;
+    font-size: 17px;
+    margin: 0 10px;
+}
+
+.menu-item:hover {
+    color: #03038e;
+}
+
+.menu-item::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    height: 4px;
+    width: 50%;
+    background-color: #03038e;
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    transition: all .2s;
+    opacity: 0;
+}
+
+.menu-item:hover::before {
+    opacity: 1;
+}
+
+
+.connexion {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex: 1
+}
+
+.connexion .reserv {
+    flex: 1;
+    margin-right: 10px;
+}
+
+.connexion .btn {
+    padding: 5px 20px;
+    max-width: 235px;
+}
+
+@media (max-width: 500px) {
+    .logo-string{
+        display: none;
+    }
+}
+@media (max-width: 600px) {
+    .connexion .btn:first-child {
+        padding: 5px 10px;
+        max-width: 95px;
+    }
+}
+@media (max-width: 900px) {
+    .menu{
+        display: none;
+    }
+}
