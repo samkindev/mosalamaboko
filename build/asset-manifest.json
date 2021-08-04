@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb6ee3d4.chunk.css",
+    "main.js": "/static/js/main.93f589c3.chunk.js",
+    "main.js.map": "/static/js/main.93f589c3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.72aeee69.js",
+    "runtime-main.js.map": "/static/js/runtime-main.72aeee69.js.map",
+    "static/css/2.165ff965.chunk.css": "/static/css/2.165ff965.chunk.css",
+    "static/js/2.b46d6399.chunk.js": "/static/js/2.b46d6399.chunk.js",
+    "static/js/2.b46d6399.chunk.js.map": "/static/js/2.b46d6399.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.165ff965.chunk.css.map": "/static/css/2.165ff965.chunk.css.map",
+    "static/css/main.bb6ee3d4.chunk.css.map": "/static/css/main.bb6ee3d4.chunk.css.map",
+    "static/js/2.b46d6399.chunk.js.LICENSE.txt": "/static/js/2.b46d6399.chunk.js.LICENSE.txt",
+    "static/media/mainPage.css": "/static/media/tools.99a13f20.png",
+    "static/media/carreaux.ad69dd95.svg": "/static/media/carreaux.ad69dd95.svg",
+    "static/media/climatisation.1ea2dd4c.svg": "/static/media/climatisation.1ea2dd4c.svg",
+    "static/media/conclude.0209cc5e.svg": "/static/media/conclude.0209cc5e.svg",
+    "static/media/description.fa465698.svg": "/static/media/description.fa465698.svg",
+    "static/media/drc.27249d24.png": "/static/media/drc.27249d24.png",
+    "static/media/electricityIcon.b7415652.svg": "/static/media/electricityIcon.b7415652.svg",
+    "static/media/trouverArtisan.css": "/static/media/find.a5743796.png",
+    "static/media/fixing.dfcf4da1.svg": "/static/media/fixing.dfcf4da1.svg",
+    "static/media/logo.9b678a91.png": "/static/media/logo.9b678a91.png",
+    "static/media/montage.92ac42c6.svg": "/static/media/montage.92ac42c6.svg",
+    "static/media/painter.a400fa6d.svg": "/static/media/painter.a400fa6d.svg",
+    "static/media/plumbery.d34ed5b5.svg": "/static/media/plumbery.d34ed5b5.svg",
+    "static/media/select.a00c7099.svg": "/static/media/select.a00c7099.svg",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72aeee69.js",
+    "static/css/2.165ff965.chunk.css",
+    "static/js/2.b46d6399.chunk.js",
+    "static/css/main.bb6ee3d4.chunk.css",
+    "static/js/main.93f589c3.chunk.js"
+  ]
+}
